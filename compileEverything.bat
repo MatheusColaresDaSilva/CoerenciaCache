@@ -1,0 +1,1 @@
+javac src/com/cache/rmiinterface/*.java src/com/cache/rmiserver/*.java src/com/cache/rmiclient/*.java src/com/cache/tabela/*.java
